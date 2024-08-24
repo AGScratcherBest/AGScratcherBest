@@ -6,8 +6,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AGScratcherBest&layout=donut-vertical&langs_count=8&card_width=320&locale=ru&theme=github_dark" />
 </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGScratcherBest/AGScratcherBest/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AGScratcherBest/AGScratcherBest/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AGScratcherBest/AGScratcherBest/output/github-contribution-grid-snake.svg" />
-</picture>
